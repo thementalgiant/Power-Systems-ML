@@ -1,0 +1,6 @@
+# Week 1 – Power Systems Overview
+This file documents the basics of power systems and how machine learning can be applied to components like:
+- Load forecasting
+- Fault detection
+- Solar output prediction
+
